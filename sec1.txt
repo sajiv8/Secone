@@ -1,3 +1,6 @@
 Hellooooo
  thuis is the file i created when im trying to creatae a new folder inside the vs code 
+
+
+ //Now its working right,,,,
  
